@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
 * Студент: [Tolya Fomin](https://up.htmlacademy.ru/htmlcss/27/user/1279617).
-* Наставник: [Гоша Баранов].(https://htmlacademy.ru/profile/id1206549).
+* Наставник: [Гоша Баранов](https://htmlacademy.ru/profile/id1206549).
 
 ---
 
